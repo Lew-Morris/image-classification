@@ -1,7 +1,9 @@
+[![MIT/Apache 2.0](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)](https://github.com/lew-morris/image-classification#license)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/lew-morris/image-classification/master)
+
 # Classifying images in the Fashion-MNIST dataset
 
----
-**I received a grade of 78/100 (1st class)** for this assignment as part of my computer vision module at university.
+This was for an assignment as part of my computer vision module at university.
 
 A convolutional neural network to classify images from the Fashion-MNIST dataset. On average, the network is able to 
 achieve an accuracy of ~92, up from ~89% on the original. 

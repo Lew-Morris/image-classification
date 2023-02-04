@@ -34,4 +34,4 @@ To install these locally, run the command
 This is dual-licensed under [MIT](LICENSE-MIT) and [APACHE](LICENSE-%20APACHE) licenses.
 
 # Credit
-Credits to [@radenjezic153](https://github.com/radenjezic153/Stat_ML/blob/master/project.ipynb) for building the basic framework which I was able to build upon.
+Credits to [@radenjezic153](https://github.com/radenjezic153/Stat_ML/blob/master/project.ipynb) for building the basic framework which I was able to improve upon.
